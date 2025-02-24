@@ -1,4 +1,4 @@
-// Perform arithmetic operations
+ Perform arithmetic operations
 sum = a + b;
 difference = a - b;
 product = a * b;
